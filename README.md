@@ -55,14 +55,20 @@ HireMind AI is an AI-powered career assistant platform that helps students analy
 ### Landing Page
 
 Modern AI-powered landing page with responsive UI.
+<img width="1900" height="890" alt="dashboard" src="https://github.com/user-attachments/assets/82ec6c8d-74d7-4e51-bbc6-78726f18eda3" />
+
 
 ### AI Career Dashboard
 
 Displays resume score, missing skills, and AI suggestions.
+<img width="1885" height="893" alt="dash" src="https://github.com/user-attachments/assets/9a3978d0-6eeb-4499-a378-2e4849700377" />
+
 
 ### Resume Analyzer
 
 Upload resume PDFs and receive AI-powered analysis.
+<img width="1530" height="857" alt="analyzer" src="https://github.com/user-attachments/assets/426055a1-5be7-432c-a016-8ac3390d020e" />
+
 
 ---
 
